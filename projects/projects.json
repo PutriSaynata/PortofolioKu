@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Reciclica App",
+    "desc": "Financial management application built using Ionic Framework",
+    "image": "reciclica-app",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/PutriSaynata/reciclica-app"
+    }
+  },
+  {
+    "name": "Giszilla App",
+    "desc": "WebGIS built using HTML and Bootstrap with population data in the Sinduadi Region, Sleman.",
+    "image": "giszilla",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/giszilla-prototype/HTML"
+    }
+  },
+  {
+    "name": "DICA App",
+    "desc": "Mobile application that can be used to find catering references that provide menus for diet programs.",
+    "image": "logo_dica",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/PutriSaynata/DICA.git"
+    }
+  },
+  {
+    "name": "Peta",
+    "desc": "Various maps used to visualize spatial data.",
+    "image": "Peta Standar",
+    "category": "mern",
+    "links": {
+      "code": "https://drive.google.com/drive/folders/126nIRvS6mhOL84vn5HBhx5JN-FXi5FHw?usp=sharing"
+    }
+  }
+]
